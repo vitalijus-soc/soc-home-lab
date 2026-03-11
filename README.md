@@ -82,4 +82,4 @@ This section lists all security investigations performed in this lab environment
 
 ## Goal
 
-To prepare for a Junior SOC Analyst role by documenting real lab investigations and detection scenarios.
+A hands-on SOC home lab used to practice threat detection, log analysis, and security incident investigations.
