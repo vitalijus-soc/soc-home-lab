@@ -37,6 +37,11 @@ The following attacks are simulated in this lab environment to generate realisti
 | Port Scanning | Network reconnaissance using scanning tools | Suricata |
 | SSH Brute Force | Multiple authentication attempts against SSH service | Suricata / Fail2Ban |
 
+## Future Investigations
+
+- Malware traffic detection
+- DNS tunneling detection
+- Suspicious PowerShell activity
 
 ## SOC Investigation Index
 
