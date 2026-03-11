@@ -10,7 +10,22 @@ I am building a structured home SOC lab to develop practical skills in:
 - Network monitoring
 - Incident response fundamentals
 
----
+## Architecture Diagram
+
+Attack simulation and monitoring pipeline used in this lab:
+
+```
+Attacker VM
+     │
+     ▼
+Nginx Docker
+     │
+     ▼
+Suricata IDS
+     │
+     ▼
+Wazuh SIEM
+```
 
 ## Lab Environment
 
