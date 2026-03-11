@@ -15,10 +15,10 @@ I am building a structured home SOC lab to develop practical skills in:
 Attack simulation and monitoring pipeline used in this lab:
 
 ```
-Attacker VM
+Attacker VM (Kali Linux)
      │
      ▼
-Nginx Docker
+Nginx Docker (Docker Container)
      │
      ▼
 Suricata IDS
