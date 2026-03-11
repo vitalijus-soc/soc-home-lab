@@ -27,6 +27,16 @@ Suricata IDS
 Wazuh SIEM
 ```
 
+## SOC Investigation Index
+
+This section lists all security investigations performed in this lab environment.
+
+| Attack Type | Description | Investigation |
+|-------------|-------------|---------------|
+| SQL Injection | Web application attack detected by Suricata | [View Investigation](suricata/sql-injection-alert) |
+| Port Scan | Network reconnaissance detected by IDS | [View Investigation](suricata/port-scan-detection) |
+| SSH Brute Force | Multiple login attempts detected | [View Investigation](suricata/brute-force-detection) |
+
 ## Lab Environment
 
 **Host System**
