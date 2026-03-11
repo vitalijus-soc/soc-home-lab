@@ -27,6 +27,17 @@ Suricata IDS
 Wazuh SIEM
 ```
 
+## Simulated Threat Scenarios
+
+The following attacks are simulated in this lab environment to generate realistic security alerts and investigation cases.
+
+| Scenario | Description | Detection Tool |
+|---------|-------------|---------------|
+| SQL Injection Attack | Simulated web application attack against nginx container | Suricata |
+| Port Scanning | Network reconnaissance using scanning tools | Suricata |
+| SSH Brute Force | Multiple authentication attempts against SSH service | Suricata / Fail2Ban |
+
+
 ## SOC Investigation Index
 
 This section lists all security investigations performed in this lab environment.
