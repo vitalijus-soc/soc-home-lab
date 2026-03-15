@@ -6,7 +6,7 @@
 
 | Case | Description | Tools |
 |-----|-------------|------|
-| [Koi Stealer C2 Investigation](suricata) | Malware command-and-control traffic analysis | Suricata, Wireshark |
+| [Koi Stealer C2 Investigation](https://github.com/vitalijus-soc/suricata-pcap-triage-lab) | Malware command-and-control traffic analysis | Suricata, Wireshark |
 
 
 
