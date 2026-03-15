@@ -2,6 +2,14 @@
 
 ## About Me
 
+## SOC Investigation Cases
+
+| Case | Description | Tools |
+|-----|-------------|------|
+| [Koi Stealer C2 Investigation](suricata) | Malware command-and-control traffic analysis | Suricata, Wireshark |
+
+
+
 I am building a structured home SOC lab to develop practical skills in:
 
 - Log analysis
